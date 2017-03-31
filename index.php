@@ -46,6 +46,8 @@
     <link rel="stylesheet" href="node_modules/font-awesome/css/font-awesome.min.css">
     <!-- Bootstrap -->
     <link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.min.css">
+    <!-- Bootstarp social -->
+    <link rel="stylesheet" href="node_modules/bootstrap-social/bootstrap-social.css">
     <!-- myApp -->
     <link rel="stylesheet" href="dist/css/myApp.css">
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
@@ -65,10 +67,17 @@
               </div>
 
               <div class="form-group text-center">
-                <button type="submit" class="btn btn-primary">Singin</button>
+                <button type="submit" class="btn btn-primary">Enjoy</button>
               </div>
             </form>
           </div>
+        </div>
+        <div class="row">
+        	<div class="col-md-2 col-md-offset-5 text-center">
+        		<div class="github">
+        			<a href="https://github.com/abcprintf/Chat-with-ajax-jquery" target="_blank" class="btn btn-block btn-social btn-github"><span class="fa fa-github"></span> View on GitHub</a>
+        		</div>
+        	</div>
         </div>
      </div> <!-- /container -->
 
